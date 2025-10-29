@@ -82,7 +82,8 @@ A continuación, se muestran dos ejemplos de uso para verificar la correcta oper
 ### Ejemplo 1: Código con Error (NameError)
 
 **Entrada de Usuario:**
-x = 10 print(variable_indefinida) analizar
+x = 10 print(variable_indefinida) 
+analizar
 
 
 **Salida Esperada del Sistema:**
@@ -100,12 +101,15 @@ Se encontraron los siguientes problemas:
 
 **Entrada de Usuario:**
 
-mi_lista = [10, 20, 30] mi_lista.append(40) print(mi_lista) analizar
+mi_lista = [10, 20, 30] mi_lista.append(40) print(mi_lista) 
+analizar
 
 **Salida Esperada del Sistema:**
 
 --- Analizando tu código... ---
 
---- Resultado de la Ejecución --- [10, 20, 30, 40] --- Fin de la Ejecución ---
+--- Resultado de la Ejecución --- 
+[10, 20, 30, 40] 
+--- Fin de la Ejecución ---
 
 ¡Felicitaciones! No se encontraron errores comunes en tu código.

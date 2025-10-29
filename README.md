@@ -46,7 +46,7 @@ Para poner en marcha el sistema experto, solo necesitas tener **Python 3** insta
 
 ---
 
-## 📖 Manual de Usuario
+##  Manual de Usuario
 
 El programa funciona de manera interactiva. [cite_start]Una vez iniciado, te encontrarás en un modo de entrada donde puedes escribir tu código y comandos[cite: 2].
 

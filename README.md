@@ -65,6 +65,3 @@ El programa funciona de manera interactiva. [cite_start]Una vez iniciado, te enc
 3.  **Reporte de Diagnóstico**: El sistema te mostrará un informe detallado con los problemas encontrados, incluyendo un nombre, un mensaje y una explicación para cada uno. [cite_start]Si no encuentra errores, ¡te felicitará![cite: 11, 12].
 4.  [cite_start]**Nuevo ciclo**: Después del análisis, el programa se reiniciará para que puedas introducir un nuevo fragmento de código[cite: 2].
 
-### Ejemplo de Sesión
-
-Así se vería una interacción típica en la terminal:

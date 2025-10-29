@@ -1,6 +1,8 @@
 # Trabajo Práctico 3: Sistema Experto para Detección de Errores en Python
 **Asignatura:** Inteligencia Artificial
+
 **Docente:** Dra. Carola Figueroa-Flores
+
 **Estudiantes:**
 * Javier Baeza Toro
 * Angel Montecino Flores
@@ -44,11 +46,11 @@ El prototipo utiliza únicamente bibliotecas estándar de Python 3 (`json`, `ast
 
 1.  Clone este repositorio en su máquina local utilizando Git:
     ```bash
-    git clone [URL_DE_SU_REPOSITORIO]
+    git clone https://github.com/AngelMontecino/SistemaExpertoPythonEducativo.git
     ```
 2.  Navegue al directorio raíz del proyecto:
     ```bash
-    cd [NOMBRE_DEL_DIRECTORIO_DEL_PROYECTO]
+    cd SistemaExpertoPythonEducativo
     ```
 
 ## Instrucciones de Uso
